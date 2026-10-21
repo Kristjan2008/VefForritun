@@ -1,12 +1,20 @@
-* {
-    background: DarkGray;
+body {
+    font-family: Arial, sans-serif;
+    background-color: Darkgray;
 }
 
 header {
 	margin-inline: auto;
 	padding: 1.5rem;
+    Background: Darkblue;
 }
 
 h1 {
 	line-height: 1.2;
+}
+
+footer {
+    background-color: darkblue;
+    padding: 1rem;
+    text-align: center;
 }
