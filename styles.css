@@ -1,0 +1,12 @@
+* {
+    background: DarkGray;
+}
+
+header {
+	margin-inline: auto;
+	padding: 1.5rem;
+}
+
+h1 {
+	line-height: 1.2;
+}
